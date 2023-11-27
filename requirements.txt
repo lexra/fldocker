@@ -85,4 +85,3 @@ docopt
 serial
 tifffile
 PyYAML
-typing_extensions
